@@ -21,5 +21,6 @@ Source: Kaggle — Titanic: Machine Learning from Disaster.
 - Key metrics: see notebook (classification report + confusion matrix).
 
 ## Certificates
-![Python Coder](Certificates/Python%20Coder.png)
+![Python Coder]<img width="4800" height="2960" alt="Python Coder" src="https://github.com/user-attachments/assets/e9e5c6a7-0bb8-4a41-93b8-4adced51503e" />
+
 ![Vampire](Certificates/Vampire.png)
