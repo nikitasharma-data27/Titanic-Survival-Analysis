@@ -4,7 +4,7 @@
 Predicting survival of Titanic passengers using Python. This project contains EDA, preprocessing, a Logistic Regression baseline, and business insights.
 
 ## Files
-- `Titanic_EDA_LogReg.ipynb` — Jupyter notebook with code, plots and commentary.
+- `notebook120dae42c0.ipynb` — Jupyter notebook with code, plots and commentary.
 
 
 ## Data
