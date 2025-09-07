@@ -20,3 +20,6 @@ Source: Kaggle — Titanic: Machine Learning from Disaster.
 - Validation accuracy: **~81%**
 - Key metrics: see notebook (classification report + confusion matrix).
 
+## Certificates
+![Python Coder](Certificates/Python%20Coder.png)
+![Vampire](Certificates/Vampire.png)
