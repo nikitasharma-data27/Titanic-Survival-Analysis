@@ -1,10 +1,22 @@
-# Titanic-Survival-Analysis
-# Titanic Survival Analysis 🚢
-This project predicts Titanic survival using Python & Logistic Regression.  
-- Achieved 81% accuracy  
-- Key insights: women and 1st-class passengers had higher survival  
+# Titanic Survival Prediction 🚢
 
-📂 Files:
-- `Titanic-Survival-Analysis.ipynb` → Full analysis & model
-  
+## Overview
+Predicting survival of Titanic passengers using Python. This project contains EDA, preprocessing, a Logistic Regression baseline, and business insights.
+
+## Files
+- `Titanic_EDA_LogReg.ipynb` — Jupyter notebook with code, plots and commentary.
+
+
+## Data
+Source: Kaggle — Titanic: Machine Learning from Disaster.
+
+## EDA Highlights
+- Women and children had much higher survival rates.
+- 1st-class passengers survived more often than 3rd-class.
+- Key correlated features: **Sex**, **Pclass**, **Fare**.
+
+## Modeling
+- Model: Logistic Regression
+- Validation accuracy: **~81%**
+- Key metrics: see notebook (classification report + confusion matrix).
 
