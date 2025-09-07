@@ -5,6 +5,7 @@ Predicting survival of Titanic passengers using Python. This project contains ED
 
 ## Files
 - `notebook120dae42c0.ipynb` — Jupyter notebook with code, plots and commentary.
+- `Certificates/` — My certificates (Python Coder, Vampire).
 
 
 ## Data
@@ -23,4 +24,5 @@ Source: Kaggle — Titanic: Machine Learning from Disaster.
 ## Certificates
 ![Python Coder]<img width="4800" height="2960" alt="Python Coder" src="https://github.com/user-attachments/assets/e9e5c6a7-0bb8-4a41-93b8-4adced51503e" />
 
-![Vampire](Certificates/Vampire.png)
+![Vampire] <img width="4800" height="2960" alt="Vampire" src="https://github.com/user-attachments/assets/99dc5382-a09d-4a45-8683-bc285bde37fa" />
+
